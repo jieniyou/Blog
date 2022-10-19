@@ -1,0 +1,15 @@
+com\xiaomin\blog\admin\model\params\PageParam.class
+com\xiaomin\blog\admin\config\SecurityConfig.class
+com\xiaomin\blog\admin\pojo\Admin.class
+com\xiaomin\blog\admin\mapper\AdminMapper.class
+com\xiaomin\blog\admin\pojo\Permission.class
+com\xiaomin\blog\admin\AdminApp.class
+com\xiaomin\blog\admin\vo\PageResult.class
+com\xiaomin\blog\admin\service\PermissionService.class
+com\xiaomin\blog\admin\service\AdminService.class
+com\xiaomin\blog\admin\service\SecurityUserService.class
+com\xiaomin\blog\admin\controller\AdminController.class
+com\xiaomin\blog\admin\config\MybatisPlusConfig.class
+com\xiaomin\blog\admin\mapper\PermissionMapper.class
+com\xiaomin\blog\admin\service\AuthService.class
+com\xiaomin\blog\admin\vo\Result.class
